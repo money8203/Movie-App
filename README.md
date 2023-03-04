@@ -1,4 +1,4 @@
-# MOVIE SEARCH APP
+# Movie Search App
 
 ## License 📄
 
